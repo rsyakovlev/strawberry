@@ -1,5 +1,7 @@
 # ВКР
 
+### Выполнил: Яковлев Роман Сергеевич, КомЗр22-2м
+
 Основано на проекте из YOLO v9 - https://github.com/WongKinYiu/yolov9
 
 classifier.pt - https://drive.google.com/file/d/1OYr2FCxvpB9OeNChkTrBUGmnCrv9eap1/view?usp=sharing<br>
