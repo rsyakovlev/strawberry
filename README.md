@@ -12,6 +12,7 @@ classification.zip и detection.zip надо разархивировать в �
 
 Для осуществления распознавания зрелости клубники последовательно запустить две команды:
 ```python 
-!python detect_dual.py --conf 0.1 source ../detection/test/images --save-txt
+!python detect_dual.py --conf 0.1 --source ../detection/test/images --save-txt
 !python classify.py --img_path ../detection/test/images
 ```
+Результаты будут сохранены в runs/classify
